@@ -6,6 +6,6 @@ categories: [food]
 tags: [casual]
 ---
 
-# First post with
+# First post 
 
-This is the new beginning of first post
+![image](/assets/image.jpg)
