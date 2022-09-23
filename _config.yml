@@ -23,7 +23,7 @@ timezone: Asia/Kuala_Lumpur
 
 title: First Blog                         # the main title
 
-tagline: Learn to deploy jekyll site to netlify   # it will display as the sub-title
+tagline: Firt blog test   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   go go power ranger
