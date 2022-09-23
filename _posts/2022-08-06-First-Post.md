@@ -8,4 +8,4 @@ tags: [casual]
 
 # First post 
 
-![image](/assets/image.jpg)
+![image](/assets/image/1.jpg)
