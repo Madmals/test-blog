@@ -8,4 +8,4 @@ tags: [casual]
 
 # First post 
 
-![image](/assets/image/1.jpg)
+![First](/assets/image/1.jpg){:class="img-responsive"}
